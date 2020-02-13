@@ -1,17 +1,17 @@
 {
   "main": {
     "name":"Nishit Shah",
-    "occupation":"Full Stack Developer",
-    "description":"Final year Computer Science bachelor student with a major in Data Science and passion for Web Development.",
+    "occupation":"Full Stack Developer / Data Scientist",
+    "description":"Intentful simple actions with a commitment to style. Majoring in Data Science with a passion for Web Development. I love to cook and walk up vertical rock faces.",
     "image":"profilepic.jpg",
-    "bio":"Besides understanding the mathematics of ML algorithms, i am really passionate about functional programming and web development as i like to build things, just as i did while i was leading a 850 employee Ceramic company and my pottery studio or while leading a group up a mountain or starting a podcast.",
+    "bio":"Besides understanding the mathematics of ML algorithms, I am really passionate about functional programming. I love to create and build things and enjoy responsibility - whether its writing code, leading a 850 employee ceramics tableware company, designing pottery, starting a podcast or even leading a group up a mountain. I am a hardworker and passionate about saying 'TAKE!' at every single bolt on a sport route. I also cook an amazing lamb curry, hire me and I might give you the recipe.",
     "contactmessage":"Drop me a line, just to say hi or if you would like to hire me.",
     "email": "nishitshah [at] mailfence [dot] com",
     "address":{
       "city":"Barcelona"
     },
-    "website": "http://www.shahnishit.space",
-    "resumedownload":"http://shahnishit.space",
+    "website": "https://shahnishit.space",
+    "resumedownload":"https://jodobear.github.io/resume",
     "social":[
       {
         "name":"twitter",
@@ -31,25 +31,25 @@
     ]
   },
   "resume":{
-    "skillmessage":"Well versed with FP techniques in Javascript, React, Node & ML in Python.",
+    "skillmessage":"Well versed with FP techniques in Javascript, React, Node & ML in Python. Elm enthusiast. Also versed with Android development.",
     "education":[
       {
         "school":"Moscow Institute of Physics & Technology, Moscow, Russia",
-        "degree":"Diploma Applied Maths and Informatics",
+        "degree":"Diploma Applied Mathematics and Informatics",
         "period":"September 2019 - February 2021",
-        "description":"Heavy focus on Probability Theory, mathematis of ML algorithms, Algorithms & Data Structures while also learning Android and Web development."
+        "description":"Heavy focus on Probability Theory, mathematics of ML algorithms, Algorithms & Data Structures while also learning Android and Web development."
       },
       {
         "school":"Harbour Space University, Barcelona, Spain",
         "degree":"Bachelor of Computer Science",
         "period":"September 2017 - February 2021",
-        "description":"Majoring in Data Science."
+        "description":"Majoring in Data Science & Web Development."
       },
       {
         "school":"DES Law College, Pune University, Pune, India",
         "degree":"BSL LLB",
         "period":"June 2005 - April 2010",
-        "description":"Majored in Constitution of India."
+        "description":"Bachelor of Law & Social Sciences. Majored in Constitution of India."
       }
     ],
     "work":[
@@ -57,13 +57,13 @@
         "company":"Oasis Ceramics Pvt Ltd",
         "title":"Business Transformation Manager",
         "years":"October 2014 - July 2017",
-        "description":"Lead a complete change of layout to implement LEAN facility design. Reduced wastage by > 30%, manufacturing time by > 20%, material movement from 1545m to 580m. Improved overall productivity by > 10%."
+        "description":"Lead a complete change of layout to implement LEAN facility design. Reduced wastage by > 30%, manufacturing time by > 20%, material movement from 1545m to 580m. Improved overall productivity by > 10%. Designing the ERP software."
       },
       {
         "company":"Oasis Ceramics Pvt Ltd",
-        "title":"Technical Head of Department",
-        "years":" August 2011 - September 2014",
-        "description":"Lab Incharge. Established SOPs for material testing and production process. QA & QC incharge. Worked with international laboratories to make the best body and glaze in production in India for Bone China Tableware."
+        "title":"Technical Head",
+        "years":"August 2011 - September 2014",
+        "description":"Lab, QA & QC  Incharge. Established SOPs for material testing and production process. Worked with international laboratories to make the best body and glaze in production in India for Bone China Tableware."
       }
     ],
     "skills":[
@@ -88,7 +88,7 @@
         "level":"80%"
       },
       {
-        "name":"HTML5",
+        "name":"HTML",
         "level":"80%"
       }
     ]
@@ -97,7 +97,7 @@
     "projects": [
       {
         "title":"PDF Stamper",
-        "description":"A Win/Linux GUI PDF batch stamper with numbering for French Lawyers",
+        "description":"A Win/Linux GUI PDF batch stamper with numbering for French Lawyers.",
         "image":"pdf-stamper-fr.png",
         "url":"https://github.com/jodobear/pdf-stamper"
       },
@@ -105,13 +105,19 @@
         "title":"Blackjack",
         "description":"A Javascript, jQuery, CSS & HTML based Blackjack Game.",
         "image":"blackjack.jpg",
-        "url":"http://www.wahmrshah.com"
+        "url":"https://github.com/jodobear/blackjack"
+      },
+      {
+        "title":"Students App",
+        "description":"An Android app with Authentication, Database, CRUD and Async task capabilities.",
+        "image":"students-app.jpg",
+        "url":"https://github.com/jodobear/android-learning/tree/students-app-async"
       },
       {
         "title":"Resume Website",
-        "description":"A React based resume website.",
+        "description":"A React based resume website currently deployed on Github pages.",
         "image":"resume-website.jpg",
-        "url":"http://www.wahmrshah.com"
+        "url":"https://jodobear.github.io"
       },
       {
         "title":"Why Bitcoin",
