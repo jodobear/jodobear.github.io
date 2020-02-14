@@ -2,9 +2,9 @@
   "main": {
     "name":"Nishit Shah",
     "occupation":"Full Stack Developer / Data Scientist",
-    "description":"Intentful simple actions with a commitment to style. Majoring in Data Science with a passion for Web Development. I love to cook and walk up vertical rock faces.",
+    "description":"Intentful simple actions with a commitment to style. Data Science Major with a passion for Web Development. I love Functional Programming and walking up vertical rock faces.",
     "image":"profilepic.jpg",
-    "bio":"Besides understanding the mathematics of ML algorithms, I am really passionate about functional programming. I love to create and build things and enjoy responsibility - whether its writing code, leading a 850 employee ceramics tableware company, designing pottery, starting a podcast or even leading a group up a mountain. I am a hardworker and passionate about saying 'TAKE!' at every single bolt on a sport route. I also cook an amazing lamb curry, hire me and I might give you the recipe.",
+    "bio":"Besides understanding the mathematics of ML algorithms, I am really passionate about functional programming. I love to create and build things and enjoy responsibility - whether its writing code, leading a 850 employee ceramics tableware company, designing pottery, starting a podcast or even leading a group up a mountain. I am a hardworker and passionate about saying 'TAKE!' at every single bolt on a sport route. I also cook an amazing lamb curry. Hire me and I might give you the recipe.",
     "contactmessage":"Drop me a line, just to say hi or if you would like to hire me.",
     "email": "nishitshah [at] mailfence [dot] com",
     "address":{
@@ -96,6 +96,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Students App",
+        "description":"An Android app with Authentication, Database, CRUD and Async task capabilities.",
+        "image":"students-app.gif",
+        "url":"https://github.com/jodobear/android-learning/tree/students-app-async"
+      },
+      {
         "title":"PDF Stamper",
         "description":"A Win/Linux GUI PDF batch stamper with numbering for French Lawyers.",
         "image":"pdf-stamper-fr.png",
@@ -106,12 +112,6 @@
         "description":"A Javascript, jQuery, CSS & HTML based Blackjack Game.",
         "image":"blackjack.jpg",
         "url":"https://github.com/jodobear/blackjack"
-      },
-      {
-        "title":"Students App",
-        "description":"An Android app with Authentication, Database, CRUD and Async task capabilities.",
-        "image":"students-app.jpg",
-        "url":"https://github.com/jodobear/android-learning/tree/students-app-async"
       },
       {
         "title":"Resume Website",
