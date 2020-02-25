@@ -1,27 +1,22 @@
 {
   "main": {
     "name":"Nishit Shah",
-    "occupation":"Full Stack Developer / Data Scientist",
-    "description":"Intentful simple actions with a commitment to style. Data Science Major with a passion for Web Development. I love Functional Programming and walking up vertical rock faces.",
+    "occupation":"Strategy and Business Transformation Manager",
+    "description":"I love to get things done! A lawyer, ceramicist, potter, mountain guide, writer, developer, data sciencist. A leader following intentful simple actions with a commitment to style",
     "image":"profilepic.jpg",
-    "bio":"Besides understanding the mathematics of ML algorithms, I am really passionate about functional programming. I love to create and build things and enjoy responsibility - whether its writing code, leading a 850 employee ceramics tableware company, designing pottery, starting a podcast or even leading a group up a mountain. I am a hardworker and passionate about saying 'TAKE!' at every single bolt on a sport route. I also cook an amazing lamb curry. Hire me and I might give you the recipe.",
-    "contactmessage":"Drop me a line, just to say hi or if you would like to hire me.",
+    "bio":"Besides understanding the mathematics of ML algorithms, I am passionate about efficiency and change management. I love to build things and enjoy responsibility - whether its leading a 850 employee company out of the trenches to sustained profits, designing pottery, writing a book, podcast, code or even leading a group up a mountain. I work hard and work with my team. I also cook an amazing curry.",
+    "contactmessage":"Drop me a line, just to say hi or if you would like to know the secret to a great curry.",
     "email": "nishitshah [at] mailfence [dot] com",
     "address":{
       "city":"Barcelona"
     },
-    "website": "https://shahnishit.space",
-    "resumedownload":"https://jodobear.github.io/resume",
+    "website": "https://jodobear.github.io",
+    "resumedownload":"https://jodobear.github.io/me",
     "social":[
       {
         "name":"twitter",
         "url":"http://twitter.com/wahmrshah",
         "className":"fa fa-twitter"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/wahmrshah/",
-        "className":"fa fa-linkedin"
       },
       {
         "name":"github",
@@ -68,62 +63,32 @@
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"75%"
+        "name":"Communication",
+        "level":"90%"
       },
       {
-        "name":"JavaScript",
-        "level":"75%"
+        "name":"Strategic Analysis & Planning",
+        "level":"90%"
       },
       {
-        "name":"ReactJs",
-        "level":"60%"
+        "name":"Problem Solving",
+        "level":"90%"
       },
       {
-        "name":"Git",
+        "name":"Leadership",
+        "level":"90%"
+      },
+      {
+        "name":"Coaching",
+        "level":"80%"
+      },
+      {
+        "name":"Web Development",
         "level":"70%"
       },
       {
-        "name":"CSS",
-        "level":"80%"
-      },
-      {
-        "name":"HTML",
-        "level":"80%"
-      }
-    ]
-  },
-  "portfolio":{
-    "projects": [
-      {
-        "title":"Students App",
-        "description":"An Android app with Authentication, Database, CRUD and Async task capabilities.",
-        "image":"students-app.gif",
-        "url":"https://github.com/jodobear/android-learning/tree/students-app-async"
-      },
-      {
-        "title":"PDF Stamper",
-        "description":"A Win/Linux GUI PDF batch stamper with numbering for French Lawyers.",
-        "image":"pdf-stamper-fr.png",
-        "url":"https://github.com/jodobear/pdf-stamper"
-      },
-      {
-        "title":"Blackjack",
-        "description":"A Javascript, jQuery, CSS & HTML based Blackjack Game.",
-        "image":"blackjack.jpg",
-        "url":"https://github.com/jodobear/blackjack"
-      },
-      {
-        "title":"Resume Website",
-        "description":"A React based resume website currently deployed on Github pages.",
-        "image":"resume-website.jpg",
-        "url":"https://jodobear.github.io"
-      },
-      {
-        "title":"Why Bitcoin",
-        "description":"An educational presentation on why Bitcoin makes sense.",
-        "image":"why_bitcoin.png",
-        "url":"https://github.com/jodobear/why_bitcoin"
+        "name":"Data Science",
+        "level":"70%"
       }
     ]
   },
