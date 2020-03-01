@@ -4,7 +4,7 @@
     "occupation":"Full Stack Developer / Data Scientist",
     "description":"I love to build things and walk up vertical rock faces following intentful simple actions with a commitment to style",
     "image":"profilepic.jpg",
-    "bio":"Besides understanding the mathematics of ML algorithms, I am passionate about functional programming. I love to build things and enjoy responsibility - whether its leading a 850 employee company out of the trenches to sustained profits, designing pottery, writing a book, podcast, code or even leading a group up a mountain. I work hard and passionate about saying 'TAKE!' at every single bolt on a sport route. I also cook an amazing curry. Hire me and I might give you the recipe.",
+    "bio":"Besides understanding the mathematics of ML algorithms, I am passionate about functional programming. I enjoy responsibility - whether its leading a 850 employee company out of the trenches to sustained profits, designing pottery, writing a book, podcast, code or even leading a group up a mountain. I work hard and passionate about saying 'TAKE!' at every single bolt on a sport route. I also cook an amazing curry. Hire me and I might give you the recipe.",
     "contactmessage":"Drop me a line, just to say hi or if you would like to hire me.",
     "email": "nishitshah [at] mailfence [dot] com",
     "address":{
@@ -57,7 +57,8 @@
         "company":"Oasis Ceramics Pvt Ltd",
         "title":"Business Transformation Manager",
         "years":"October 2014 - July 2017",
-        "description":"Lead a complete change of layout to implement LEAN facility design. Reduced Wastage by > 30%. Reduced Labour from 850 to 585 people. Reduced Throughput by > 35%. Reduced Space usage by > 45%. Reduced Material movement from 1545m to 580m. Improved overall productivity by > 25%. Redesigned the reporting on each and every value addition process."
+        "description":
+          "Lead a complete change of layout to implement LEAN facility design. Reduced Labour from 850 to 580 people; Wastage by > 30%; Throughput by > 35%; Space usage by > 45%; Material movement from 1545m to 580m. Improved overall productivity by > 25%. Redesigned the reporting on each and every value addition process."
       },
       {
         "company":"Oasis Ceramics Pvt Ltd",
@@ -138,12 +139,12 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Nishit is a talented student. His motivation to progress in science, his analytical thinking and hunger for knowledge are all signs of a potentially good scientist.",
-        "user":"David Zmiaikou, Professor of Mathematics Belarussian State university & Harbour Space"
+        "text": "Nishit is sharp and methodical. Not only did he learn the ceramic process from a production point of view, he understood the chemistry and sciene of it. His focus on understanding the system allowed him to have a broader perspective on the process which helped us come up with ver different, but effective solutions. I thouroughly enjoyed working with his energy.",
+        "user": "Subhash Khadse, Technical Head at Oasis Ceramics Pvt Ltd"
       },
       {
-        "text":"Nishit was one of the best students in class. He was very motivated and enthusiastic to learn new material. Furthermore, he was able to manage complexity and intensity of the course.",
-        "user":"Mikhail Schupletsov, Associate Professor at Lomonosov Moscow State University & Harbour Space"
+        "text":"Nishit is a talented student. His motivation to progress in science, his analytical thinking and hunger for knowledge are all signs of a potentially good scientist.",
+        "user":"David Zmiaikou, Professor of Mathematics Belarussian State university & Harbour Space"
       }
     ]
   }
