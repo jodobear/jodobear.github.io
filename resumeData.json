@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Nishit Shah",
-    "occupation":"Full Stack Developer / Data Scientist",
+    "occupation":"Data Scientist & Web Developer",
     "description":"I love to build things and walk up vertical rock faces following intentful simple actions with a commitment to style",
     "image":"profilepic.jpg",
     "bio":"Besides understanding the mathematics of ML algorithms, I am passionate about functional programming. I enjoy responsibility - whether its leading a 850 employee company out of the trenches to sustained profits, designing pottery, writing a book, podcast, code or even leading a group up a mountain. I work hard and passionate about saying 'TAKE!' at every single bolt on a sport route. I also cook an amazing curry. Hire me and I might give you the recipe.",
@@ -73,6 +73,10 @@
         "level":"75%"
       },
       {
+        "name": "SkLearn, Numpy & Pandas",
+        "level": "75%"
+      },
+      {
         "name":"JavaScript",
         "level":"75%"
       },
@@ -85,20 +89,12 @@
         "level":"70%"
       },
       {
-        "name":"CSS",
+        "name":"HTML & CSS",
         "level":"80%"
       },
       {
-        "name":"HTML",
-        "level":"80%"
-      },
-      {
-        "name":"Change Management",
-        "level":"80%"
-      },
-      {
-        "name":"Business Strategy",
-        "level":"80%"
+        "name":"Change Management & Business Strategy",
+        "level":"90%"
       }
     ]
   },
