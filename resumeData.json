@@ -1,11 +1,15 @@
 {
   "main": {
-    "name":"Nishit Shah",
-    "occupation":"Data Scientist & Web Developer",
-    "description":"I love to build things and walk up vertical rock faces following intentful simple actions with a commitment to style",
+    "name":"Jodobear",
+    "occupation":"Bitcoin things, Web Development & Business Strategy.",
+    "description":"I love to build things and walk up vertical rock faces following intentful simple actions with a commitment to style.",
     "image":"profilepic.jpg",
-    "bio":"Besides understanding the mathematics of ML algorithms, I am passionate about functional programming. I enjoy responsibility - whether its leading a 850 employee company out of the trenches to sustained profits, designing pottery, writing a book, podcast, code or even leading a group up a mountain. I work hard and passionate about saying 'TAKE!' at every single bolt on a sport route. I also cook an amazing curry. Hire me and I might give you the recipe.",
-    "contactmessage":"Drop me a line, just to say hi or if you would like to hire me.",
+    "bio":[
+      "Besides understanding the mathematics of ML algorithms, I am passionate about functional programming. I enjoy responsibility - whether its leading a 850 employee company out of the trenches to sustained profits, designing pottery, writing a book, podcast, code or even leading a group up a mountain.",
+      "I build on bitcoin,  help people understand money and become soverign custodians of their money and future, safely and securely.",
+      "I work hard and passionate about saying 'TAKE!' at every single bolt on a sport route. I also cook an amazing curry. Hire me and I might give you the recipe."
+      ],
+      "contactmessage":"Drop me a line, just to say hi or if you would like to hire me.",
     "email": "nishitshah [at] mailfence [dot] com",
     "address":{
       "city":"Barcelona"
@@ -15,7 +19,7 @@
     "social":[
       {
         "name":"twitter",
-        "url":"http://twitter.com/wahmrshah",
+        "url":"http://twitter.com/jodobear",
         "className":"fa fa-twitter"
       },
       {
@@ -69,12 +73,16 @@
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"75%"
+        "name":"Change Management & Business Strategy",
+        "level":"90%"
       },
       {
-        "name": "SkLearn, Numpy & Pandas",
+        "name": "Bitcoin & LN",
         "level": "75%"
+      },
+      {
+        "name":"Python",
+        "level":"75%"
       },
       {
         "name":"JavaScript",
@@ -86,15 +94,7 @@
       },
       {
         "name":"Git",
-        "level":"70%"
-      },
-      {
-        "name":"HTML & CSS",
         "level":"80%"
-      },
-      {
-        "name":"Change Management & Business Strategy",
-        "level":"90%"
       }
     ]
   },
