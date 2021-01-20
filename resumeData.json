@@ -20,11 +20,6 @@
         "url":"http://twitter.com/jodobear",
         "className":"fa fa-twitter"
       },
-      // {
-      //   "name":"linkedin",
-      //   "url":"https://www.linkedin.com/in/wahmrshah/",
-      //   "className":"fa fa-linkedin"
-      // },
       {
         "name":"github",
         "url":"http://github.com/jodobear",
