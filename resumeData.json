@@ -1,16 +1,14 @@
 {
   "main": {
-    "name":"Nishit Shah",
+    "name":"jodobear",
     "occupation":"Bitcoin things, Web Development & Business Strategy.",
     "description":"I love to build things and walk up vertical rock faces following intentful simple actions with a commitment to style.",
     "image":"profilepic.jpg",
     "bio":[
-      "Besides understanding the mathematics of ML algorithms, I am passionate about functional programming. I enjoy responsibility - whether its leading a 850 employee company out of the trenches to sustained profits, designing pottery, writing a book, podcast, code or even leading a group up a mountain.",
-      "\nI build on bitcoin,  help people understand money and become soverign custodians of their money and future, safely and securely.",
-      "\nI work hard and passionate about saying 'TAKE!' at every single bolt on a sport route. I also cook an amazing curry. Hire me and I might give you the recipe."
+      "Besides understanding the mathematics of ML algorithms, I am passionate about functional programming. I enjoy responsibility - whether its leading a 850 employee company out of the trenches to sustained profits, designing pottery, writing a book, podcast, code or even leading a group up a mountain.\nI build on bitcoin,  help people understand money and become sovereign custodians of their money and future, safely and securely.\nI work hard and passionate about saying 'TAKE!' at every single bolt on a sport route. I also cook amazing curry. Hire me and I might give you the recipe."
       ],
       "contactmessage":"Drop me a line, just to say hi or if you would like to hire me.",
-    "email": "nishitshah [at] mailfence [dot] com",
+    "email": "jodobear [at] protonmail [dot] com",
     "address":{
       "city":"Barcelona"
     },
@@ -19,14 +17,14 @@
     "social":[
       {
         "name":"twitter",
-        "url":"http://twitter.com/wahmrshah",
+        "url":"http://twitter.com/jodobear",
         "className":"fa fa-twitter"
       },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/wahmrshah/",
-        "className":"fa fa-linkedin"
-      },
+      // {
+      //   "name":"linkedin",
+      //   "url":"https://www.linkedin.com/in/wahmrshah/",
+      //   "className":"fa fa-linkedin"
+      // },
       {
         "name":"github",
         "url":"http://github.com/jodobear",
@@ -35,7 +33,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Well versed with FP techniques in Javascript, React, Node & ML in Python. Elm enthusiast. Also versed with Android development.",
+    "skillmessage":"Well versed with FP techniques in Javascript, Node & ML in Python. Elm enthusiast. Also versed with Android development.",
     "education":[
       {
         "school":"Moscow Institute of Physics & Technology, Moscow, Russia",
@@ -58,6 +56,18 @@
     ],
     "work":[
       {
+        "company":"Hansgrohe Group",
+        "title":"Intern",
+        "years":"April 2020 - October 2020",
+        "description":"Built interface between the Hansgrohe Home app API to be accessed via Google Voice Assistant so that the Home app is operational using voice commands."
+      },
+      {
+        "company":"Blockchain Commons",
+        "title":"Intern",
+        "years":"June 2020 - September 2020",
+        "description":"Wrote a couple of chapters for Learning Bitcoin from the Command Line. Worked on restructuring Standup Scripts from the ground up to make setting up a Bitcoin full node extremely easy and fast including selected applications on Bitcoin like BTCPay Server, LND/C-Lightning & Esplora. Contributed to Spotbit, a historic price aggregation server anyone can host."
+      },
+      {
         "company":"Oasis Ceramics Pvt Ltd",
         "title":"Business Transformation Manager",
         "years":"October 2014 - July 2017",
@@ -77,8 +87,16 @@
         "level":"90%"
       },
       {
-        "name": "Bitcoin & LN",
+        "name": "Bitcoin",
         "level": "75%"
+      },
+      {
+        "name": "Lightning Network",
+        "level": "50%"
+      },
+      {
+        "name": "Linux & Bash",
+        "level": "80%"
       },
       {
         "name":"Python",
@@ -89,8 +107,8 @@
         "level":"75%"
       },
       {
-        "name":"ReactJs",
-        "level":"60%"
+        "name": "Vuejs",
+        "level":"50%"
       },
       {
         "name":"Git",
@@ -100,6 +118,18 @@
   },
   "portfolio":{
     "projects": [
+      {
+        "title": "Learning Bitcoin from the Command Line",
+        "description": "The best way to learn to learn deeply about bitcoin is to avoid GUIs (even bitcoin-qt), and instead learn it from the command line.",
+        "image":"Borromean-rings_minimal-overlap(256x256).png",
+        "url":"https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line"
+      },
+      {
+        "title": "Standup Scripts",
+        "description": "UNIX Scripts: Standup a Bitcoin-Core full node and Tor",
+        "image":"Borromean-rings_minimal-overlap(256x256).png",
+        "url": "https://github.com/jodobear/Bitcoin-Standup-Scripts"
+      },
       {
         "title":"Students App",
         "description":"An Android app with Authentication, Database, CRUD and Async task capabilities.",
